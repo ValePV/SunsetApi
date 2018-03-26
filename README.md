@@ -1,5 +1,6 @@
 # At The Right Time 
-Aplicación que te permite conocer el horario de puesta y salida del sol en cualquier parte del mundo, además puedes conocer las fases de la luna por semana.
+Aplicación web que te permite conocer el horario del amanecer y atardecer del lugar en que te encuentres u otro en cualquier parte del mundo, además puedes conocer las fases lunanes de toda la semana.
+
 ![image](https://user-images.githubusercontent.com/32285156/37884555-e501fed8-3086-11e8-8bdd-432313ff3e0e.png)
 
 ### API :
@@ -12,3 +13,8 @@ Aplicación que te permite conocer el horario de puesta y salida del sol en cual
 
 ### LINK
  + https://meliveloz.github.io/SunsetApi/
+
+## Desarrollado
+
+Para Laboratoria
+
