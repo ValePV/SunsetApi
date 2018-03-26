@@ -1,7 +1,7 @@
 # At The Right Time 
 Aplicación web que te permite conocer el horario del amanecer y atardecer del lugar en que te encuentres u otro en cualquier parte del mundo, además puedes conocer las fases lunanes de toda la semana.
 
-![image](https://user-images.githubusercontent.com/32285156/37884555-e501fed8-3086-11e8-8bdd-432313ff3e0e.png)
+![image](https://user-images.githubusercontent.com/32298729/37925310-95b4b5b2-310a-11e8-9467-b8c80a77aacb.png)
 
 ### API :
 + Sunrise - Sunset API : Información de horarios.
